@@ -1,4 +1,4 @@
-package com.example.hairsee;
+package com.example.SHARELINK;
 
 import androidx.appcompat.app.AppCompatActivity;
 
